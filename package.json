@@ -1,0 +1,13 @@
+{
+    "name" : "node-red-contrib-tts-variations",
+    "version"      : "0.1",
+    "description"  : "A node for random choise of answer for smart speaker",
+    "dependencies": {
+    },
+    "keywords": [ "node-red" ],
+    "node-red" : {
+        "nodes": {
+            "tts-variants": "tts-variations.js"
+        }
+    }
+}
